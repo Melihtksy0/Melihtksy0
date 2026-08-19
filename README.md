@@ -1,126 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,50:6a1b9a,100:c2185b&height=220&section=header&text=HELLO%20WORLD&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Melih%20Toksoy&fontSize=48&fontColor=00ff9c&fontAlignY=38&desc=Cyber%20Security%20%7C%20Secure%20Developer%20%7C%20Pen-Tester&descAlignY=56&descSize=17&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/melih-toksoy-8a3767315/">🔗 linkedin.com/in/melih-toksoy</a> &nbsp;
+<br>
+
+<a href="https://www.linkedin.com/in/melih-toksoy-8a3767315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Melihtksy0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Melihtksy0&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Bili%C5%9Fim+G%C3%BCvenli%C4%9Fi+Teknolojisi+%C3%96%C4%9Frencisi;Secure+Web+Application+Developer;Penetration+Testing+%26+Vulnerability+Analysis;OWASP+Top+10+%7C+ISO%2FIEC+27001+%7C+AppSec" alt="Typing SVG"/>
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
-### 🦉 BEN MELİH!
-
-*Bilişim Güvenliği Uzmanı Adayı (Secure Developer / Pen-Tester)*
+## 👤 Hakkımda
 
 Güvenli web uygulama geliştirme ve sızma testlerine büyük ilgi duyan bir **Bilişim Güvenliği Teknolojisi** son sınıf öğrencisiyim. Python, React, Flask ve PostgreSQL ile geliştirme yaparken; Wireshark, Nmap, Burp Suite gibi araçlarla zafiyet analizi de yapıyorum.
 
-- 🎓 Öğrenmeye her gün devam ediyorum
-- 🛡️ OWASP Top 10 & Secure Coding prensiplerini takip ediyorum
-- 📜 ISO/IEC 27001 & 27002 standartlarıyla ilgileniyorum
-- 🧪 Zafiyet taramaları ve pentest raporlamaları yapıyorum
-- 💬 Kurumsal siber güvenlik uyumluluğu üzerine çalışıyorum
+```
+🎓  Öğrenmeye her gün devam ediyorum
+🛡️  OWASP Top 10 & Secure Coding prensiplerini takip ediyorum
+📜  ISO/IEC 27001 & 27002 standartlarıyla ilgileniyorum
+🧪  Zafiyet taramaları ve pentest raporlamaları yapıyorum
+🤝  Kurumsal siber güvenlik uyumluluğu üzerine çalışıyorum
+```
 
-<img src="https://komarev.com/ghpvc/?username=Melihtksy0&label=PROFILE+VIEWS&color=c2185b&style=for-the-badge" alt="profile views"/>
+<br>
+
+## 🛠️ Teknoloji Yığını
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,flask,postgres,linux,git,vscode&theme=dark" />
+</div>
+
+<br>
+
+### 🔎 Siber Güvenlik & Analiz Araçları
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0f0c29?style=for-the-badge&logoColor=00ff9c"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus%20%2F%20OpenVAS-663399?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br>
+
+## 🎯 Uzmanlık Alanları & Standartlar
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**📜 Standartlar & Uyumluluk**
+
+ISO/IEC 27001 (BGYS Kurulumu & Denetimi)
+ISO/IEC 27002 (Güvenlik Kontrolleri)
 
 </td>
-<td width="30%" align="center">
+<td width="33%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200"/>
+**⚔️ Ofansif & Defansif Güvenlik**
+
+Ağ Güvenliği, Penetrasyon Testleri
+Zafiyet Analizi, Tehdit Modelleme
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔐 Güvenli Geliştirme (AppSec)**
+
+OWASP Top 10, Secure Coding
+Yetkilendirme Mimarileri
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 🛠️ Teknolojiler & Diller
+## 🚀 Öne Çıkan Projeler
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Frontend & Backend
+### 💰 [Tksy-Cüzdan](https://github.com/Melihtksy0)
+Güvenli veri tabanı yapısı ve kullanıcı oturum yönetimi barındıran bütçe takip uygulaması.
+<br>`Python` `Flask` `PostgreSQL`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### 💻 Ortam & Araçlar
+### 🥙 [Kebab Master](https://github.com/Melihtksy0)
+Etkileşimli sipariş ve yönetim arayüzü sunan web projesi.
+<br>`React` `JavaScript`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔎 Siber Güvenlik & Analiz Araçları
+### 🌙 [Rüya Alemi](https://github.com/Melihtksy0)
+Güvenli form yapıları ve modern UI odaklı web platformu.
+<br>`React` `TypeScript`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus%20%2F%20OpenVAS-663399?style=for-the-badge&logo=security&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🧪 Siber Güvenlik / Lab Çalışmaları
+Zafiyet taramaları, ağ analizleri ve penetrasyon testi raporlamaları.
+<br>`Nmap` `Burp Suite` `Metasploit`
 
-### 🚀 Öne Çıkan Projeler
+</td>
+</tr>
+</table>
 
-- 💰 **[Tksy-Cüzdan](https://github.com/Melihtksy0)** — Güvenli veri tabanı yapısı ve kullanıcı oturum yönetimi barındıran bütçe takip uygulaması.
-- 🥙 **[Kebab Master](https://github.com/Melihtksy0)** — Etkileşimli sipariş ve yönetim arayüzü sunan web projesi.
-- 🌙 **[Rüya Alemi](https://github.com/Melihtksy0)** — Güvenli form yapıları ve modern UI odaklı web platformu.
-- 🧪 **Siber Güvenlik / Lab Çalışmaları** — Zafiyet taramaları, ağ analizleri ve penetrasyon testi raporlamaları.
+> 📌 Proje kartlarındaki linkleri kendi repo adreslerinle güncellemeyi unutma.
 
-> 📌 Proje linklerini kendi repo adreslerinle güncellemeyi unutma.
+<br>
 
----
+## 📊 GitHub İstatistikleri
 
-### 🎯 Uzmanlık Alanları & Standartlar
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Melihtksy0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Melihtksy0&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" height="165"/>
+</div>
 
-| Kategori | İçerik |
-|---|---|
-| **Standartlar & Uyumluluk** | ISO/IEC 27001 (BGYS Kurulumu & Denetimi), ISO/IEC 27002 (Güvenlik Kontrolleri) |
-| **Ofansif & Defansif Güvenlik** | Ağ Güvenliği, Penetrasyon Testleri, Zafiyet Analizi, Tehdit Modelleme |
-| **Güvenli Geliştirme (AppSec)** | OWASP Top 10, Secure Coding, Yetkilendirme Mimarileri |
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melihtksy0&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00ff9c" />
+</div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Melihtksy0&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
 
-### 📊 GitHub İstatistikleri
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melihtksy0&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melihtksy0&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+## 📈 Katkı Grafiği
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melihtksy0&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Melihtksy0&theme=react-dark&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff" width="100%"/>
+</div>
 
----
+<br>
 
-### 📫 İletişim
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/melih-toksoy-8a3767315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Melihtksy0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 📫 İletişim
 
 <p align="center">
-  <i>"Güvenlik bir varış noktası değil, sürekli bir yolculuktur."</i>
+  <a href="https://www.linkedin.com/in/melih-toksoy-8a3767315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Melihtksy0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<div align="center">
+<i>"Güvenlik bir varış noktası değil, sürekli bir yolculuktur."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
