@@ -1,80 +1,33 @@
 <!-- HEADER START -->
 <div align="center">
-  
-  <!-- HAREKETLİ BAŞLIK - İsmini Değiştir -->
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Merhaba!,+Ben+[SENİN_İSMİN]+👋;Yazılım+Geliştirici;[SENİN_ODAK_ALANIN]+Tutkunu" alt="Typing SVG" /></h1>
-  
-  <p align="center">
-    <!-- ÖZEL BANNER (İsteğe Bağlı) - Hoş bir geliştirici görseli veya boş bırakabilirsin -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=150&section=header&text=%20&fontAlignY=35&theme=synthwave" width="100%"/>
-  </p>
-  
-  <p align="center">
-    <!-- SOSYAL MEDYA ROZETLERİ - Linklerini Ekle -->
-    <a href="https://linkedin.com/in/[SENİN_LINKEDIN_ID]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-    <a href="mailto:[SENİN_EPOSTAN]" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f2fe&height=180&section=header&text=Melih%20Toksoy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%26%20Information%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+  <!-- DİNAMİK YAZAN BAŞLIK -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=🛡️+Information+Security+Technology;🔒+ISO%2FIEC+27001+%26+ISO%2FIEC+27002+Practices;💻+Full-Stack+Web+Development+%26+Secure+Coding;🎯+Penetration+Testing+%26+Vulnerability+Assessment" alt="Typing SVG" />
+  </a>
 </div>
 <!-- HEADER END -->
 
 <br/>
 
-<!-- ABOUT ME SECTION START -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%">
-      
-### 🕵️‍♂️ Hakkımda
+<!-- HAKKIMDA BÖLÜMÜ -->
+### ⚡ Konsol Çıktısı: `whoami`
 
-<!-- Buraya kendini tanıtan 2-3 cümle yaz -->
-  - ✨ Şu anda **[SENİN_ŞUANKİ_PROJEN VEYA ÖĞRENDİĞİN_ŞEY]** üzerinde çalışıyorum.
-  - 🚀 Derin ilgi alanım: **[ÖRN: YAPAY ZEKA, SİBER GÜVENLİK, WEB3]**.
-  - 💬 Bana **[ÖRN: JAVASCRIPT, PYTHON, SİSTEM MİMARİSİ]** konularında soru sorabilirsin.
-  - ❤️ Açık kaynak projelerine katkıda bulunmayı seviyorum.
-  - ⚡ Eğlenceli gerçek: **[ÖRN: KAHVE OLMADAN KOD YAZAMAM]**.
-
-    </td>
-    <td width="40%" align="center">
-      
-<!-- PROFİL İSTATİSTİKLERİ KARTI - Dinamik ve Dolu Gösterir -->
-<!-- KODDAKI '[SENİN_KULLANICI_ADIN]' YERİNE KENDİ ADINI YAZ -->
-<imgsrc="https://github-readme-stats.vercel.app/api?username=[SENİN_KULLANICI_ADIN]&show_icons=true&locale=tr&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
-
-    </td>
-  </tr>
-</table>
-<!-- ABOUT ME SECTION END -->
-
-<br/>
-
-<!-- TECH STACK START -->
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-<!-- Bu bölümü kendi bildiğin teknolojilerle güncelle. 'shields.io' ve 'simpleicons' kullanılmıştır -->
-<p align="left">
-  <!-- Diller -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <!-- Araçlar -->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-<!-- TECH STACK END -->
-
-<br/>
-
-<!-- GITHUB AKTİVİTESİ START -->
-### 📊 GitHub Aktivitem
-
-<div align="center">
-  
-  <!-- En Çok Kullanılan Diller Kartı -->
-  <!-- KODDAKI '[SENİN_KULLANICI_ADIN]' YERİNE KENDİ ADINI YAZ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SENİN_KULLANICI_ADIN]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  
-</div>
-<!-- GITHUB AKTİVİTESİ END -->
+```bash
+[melih@security-core ~]$ cat profile_info.json
+{
+  "name": "Melih Toksoy",
+  "field": "Bilişim Güvenliği Teknolojisi",
+  "focus_areas": [
+    "Bilgi Güvenliği Yönetim Sistemleri (BGYS)",
+    "Güvenlik Denetimleri ve Risk Yönetimi",
+    "Sızma Testleri (Penetration Testing)",
+    "Güvenli Web Uygulama Geliştirme (Secure Coding)"
+  ],
+  "compliance_frameworks": [
+    "ISO/IEC 27001 (ISMS Implementation & Audit)",
+    "ISO/IEC 27002 (Information Security Controls)"
+  ],
+  "learning_motto": "Sürekli gelişim, proaktif savunma ve temiz kod."
+}
